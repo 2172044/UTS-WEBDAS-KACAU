@@ -18,3 +18,18 @@ h1{
     font-size: 50px;
     color: rgba(63, 62, 62, 0.795);
 }
+.button{
+    color: honeydew;
+    width: calc(200px);
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 40px;
+    background-color: rgb(77, 199, 142);
+    margin-bottom: 20px;
+}
+.button:hover{
+    color: rgb(77, 199, 142);
+    transition: 0.2s;
+    background-color: transparent;
+    border: 1px solid rgb(77, 199, 142);
+}
