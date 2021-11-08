@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('pempek.jpg') ;
+      background-image:url('image/pempek.jpg') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
