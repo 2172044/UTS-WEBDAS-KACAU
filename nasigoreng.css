@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('nasgor.png') ;
+      background-image:url('image/nasgor.png') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
