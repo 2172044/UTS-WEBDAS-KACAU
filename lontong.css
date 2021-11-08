@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('lontong.jpg') ;
+      background-image:url('image/lontong.jpg') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
