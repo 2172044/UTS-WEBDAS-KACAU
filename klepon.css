@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('klepon.jpg') ;
+      background-image:url('image/klepon.jpg') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
