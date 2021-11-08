@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('risoles.jpg') ;
+      background-image:url('image/risoles.jpg') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
