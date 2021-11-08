@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('rawon.png') ;
+      background-image:url('image/rawon.png') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
