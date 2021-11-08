@@ -2,7 +2,7 @@ body{
     margin: 0;
   }
   .atas{
-      background-image:url('bubur-manado.png') ;
+      background-image:url('image/bubur-manado.png') ;
       background-color: #eaeaea;
       background-size:cover;
       position: relative;
