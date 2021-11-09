@@ -24,6 +24,9 @@ body{
     overflow:auto;
     text-align: center;
   }
+.bawah::-webkit-scrollbar{
+  display: none;
+}
   h1{
     text-align: center;
     margin-left: 65px;
@@ -44,7 +47,6 @@ body{
   }
   div#img1{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
   }
   .tulisan1{
@@ -63,7 +65,6 @@ body{
   }
   div#img2{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
   }
   .tulisan2{
@@ -82,7 +83,6 @@ body{
   }
   div#img3{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
   }
   .tulisan3{
@@ -104,7 +104,6 @@ body{
   span.a{
     color:green;
     font-size: 16px;
-    justify-content: justify;
   }
   ul.list3{
     list-style-position: inside;
