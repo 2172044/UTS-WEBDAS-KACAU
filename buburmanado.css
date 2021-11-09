@@ -12,7 +12,7 @@ body{
       margin-right:auto;
       z-index: 1;
   }
-  .bawah{
+.bawah{
     background-color: #eee;
     border: 0.1px solid black;
     height: 500px;
@@ -23,16 +23,19 @@ body{
     top: 300px;
     overflow:auto;
     text-align: center;
-  }
+}
+.bawah::-webkit-scrollbar{
+  display: none;
+}
   h1{
     text-align: center;
     margin-left: 65px;
     font-size: 50px;
-  }
+ }
   ul.list1{
     display: inline-block;
     list-style: none;
-  }
+}
   #icon{
     border: 1px solid #ceffbc;
     border-radius: 20%;
@@ -41,17 +44,16 @@ body{
     height: 150px;
     background-color: #ceffbc;
     margin-left: 25px;
-  }
+}
   div#img1{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
-  }
+}
   .tulisan1{
     padding: 5px;
     text-align: center;
     color: green;
-  }
+}
   #icon2{
     border: 1px solid #fff0da;
     border-radius: 20%;
@@ -60,17 +62,16 @@ body{
     height: 150px;
     background-color: #fff0da;
     margin-left: 30px;
-  }
+}
   div#img2{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
-  }
+}
   .tulisan2{
     padding: 5px;
     text-align: center;
     color: #ffa500;
-  }
+}
   #icon3{
     border: 1px solid #e8d8ff;
     border-radius: 20%;
@@ -79,42 +80,40 @@ body{
     height: 150px;
     background-color: #e8d8ff;
     margin-left: 30px;
-  }
+}
   div#img3{
     display: inline-block;
-    margin: auto;
     margin-top: 10px;
-  }
+}
   .tulisan3{
     padding: 5px;
     text-align: center;
     color: #6f00ff;
-  }
+}
   h2{
     text-align: center;
     margin-left: 70px;
     font-size: 30px;
-  }
+}
   ul.list2{
     list-style-position:inside;
-  }
+}
   .c{
     color: orange;
-  }
+}
   span.a{
     color:green;
     font-size: 16px;
-    justify-content: justify;
-  }
+}
   ul.list3{
     list-style-position: inside;
     list-style-type: decimal;
-  }
-  .d{
+}
+.d{
     color: red;
     font-size: 20px;
-  }
+}
   span.b{
     color: black;
     font-size: 15px;
-  }
+}
