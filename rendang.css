@@ -28,6 +28,17 @@ body{
 .bawah::-webkit-scrollbar{
   display: none;
 }
+a.kembali{
+    font-size: 70px;
+    color: rgb(240, 229, 229);
+    margin-left: 35px;
+    margin-top: 1px;
+    text-decoration: none;
+}
+a.kembali:hover{
+  font-size: 80px;
+  color:darkgray;
+}
 h1{
   text-align: left;
   margin-left: 65px;
@@ -123,9 +134,4 @@ ul.list3{
 span.b{
   color: black;
   font-size: 15px;
-}
-.kembali{
-    font-size: 50px;
-    color: rgb(240, 229, 229);
-    margin-left: 20px;
 }
