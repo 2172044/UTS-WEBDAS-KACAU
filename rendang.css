@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  font-family: 'Averia Serif Libre', cursive;
 }
 .atas{
     background-image:url('image/rendang.jpg') ;
@@ -31,6 +32,9 @@ h1{
   text-align: left;
   margin-left: 65px;
   font-size: 50px;
+}
+h1:hover{
+  font-size:75px ;
 }
 ul.list1{
   display: inline-block;
@@ -94,6 +98,9 @@ h2{
   text-align: center;
   margin-left: 70px;
   font-size: 30px;
+}
+h2:hover{
+  font-size:75px ;
 }
 ul.list2{
   list-style-position: inside;
