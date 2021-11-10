@@ -9,8 +9,8 @@ body{
     position: relative;
     display: flex;
     height: 60vh;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:auto;
+    margin-right:auto;
     z-index: 1;
 }
 .bawah{
